@@ -9,5 +9,4 @@ Construction and Maintenance Manager | MIT in IT Security & Cybersecurity Enthus
 - [iMessage Claude Monitor](https://github.com/CamoRageaholic1/imessage-claude-monitor) - AI-powered messaging automation
 
 ## 📫 Connect
-- Website: [www.camozeroday.com](https://www.camozeroday.com)
 - Location: Maine
