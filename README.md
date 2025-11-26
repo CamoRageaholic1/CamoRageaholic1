@@ -59,12 +59,6 @@ Construction and Maintenance Manager | MIT in IT Security & Cybersecurity Enthus
 - [OSINT Aggregator](https://github.com/CamoRageaholic1/osint_aggregator) - Intelligence gathering from public sources
 - [iMessage Claude Monitor](https://github.com/CamoRageaholic1/imessage-claude-monitor) - AI-powered messaging automation
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CamoRageaholic1&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CamoRageaholic1&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 📫 Connect
 - LinkedIn: [linkedin.com/in/davidosisek](https://www.linkedin.com/in/davidosisek)
 - Location: Maine
