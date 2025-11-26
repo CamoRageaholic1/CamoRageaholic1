@@ -9,4 +9,5 @@ Construction and Maintenance Manager | MIT in IT Security & Cybersecurity Enthus
 - [iMessage Claude Monitor](https://github.com/CamoRageaholic1/imessage-claude-monitor) - AI-powered messaging automation
 
 ## 📫 Connect
+- LinkedIn: [linkedin.com/in/davidosisek](https://www.linkedin.com/in/davidosisek)
 - Location: Maine
